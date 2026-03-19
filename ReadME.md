@@ -4,7 +4,7 @@
 1. [SQL](content/01-sql.md)
 2. [Python Basics](content/02-python.ipynb)
 3. [Python for Data Science](content/03-python-ds.ipynb)
-4. [Maths](content/04-maths.md)
+4. [Maths](content/04-maths.pdf)
 5. [Statistics](content/05-statistics.md)
 
 ---
