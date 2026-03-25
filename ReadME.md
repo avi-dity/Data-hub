@@ -10,13 +10,13 @@
 ---
 
 ### 📊 Data Analysis
-5. [Data Visualization (Matplotlib & Seaborn)](content/06-visualization.ipynb)
-6. [Exploratory Data Analysis](content/07-eda.ipynb)
+6. [Data Visualization (Matplotlib & Seaborn)](content/06-visualization.ipynb)
+7. [Exploratory Data Analysis](content/07-eda.ipynb)
 
 ---
 
 ### 🤖 Machine Learning
-7. [Machine Learning Overview](content/08-ml-intro.md)
+8. [Machine Learning Overview](content/08-ml-intro.md)
 
 **Supervised Learning**
 - [Regression](content/09-regression.md)
@@ -29,13 +29,13 @@
 ---
 
 ### 🧠 Deep Learning
-8. [Neural Network Basics](content/13-neural-networks.md)
-9. [TensorFlow Basics](content/14-tensorflow.ipynb)
-10. [PyTorch Basics](content/15-pytorch.ipynb)
+9. [Neural Network Basics](content/13-neural-networks.md)
+10. [TensorFlow Basics](content/14-tensorflow.ipynb)
+11. [PyTorch Basics](content/15-pytorch.ipynb)
 
 ---
 
 ### 🚀 Artificial Intelligence
-11. [AI Fundamentals](content/16-ai-fundamentals.md)
-12. [Generative AI & LLM Basics](content/17-generative-ai.md)
-13. [MLOps & Deployment](content/18-mlops.md)
+12. [AI Fundamentals](content/16-ai-fundamentals.md)
+13. [Generative AI & LLM Basics](content/17-generative-ai.md)
+14. [MLOps & Deployment](content/18-mlops.md)
